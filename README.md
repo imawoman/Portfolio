@@ -1,4 +1,4 @@
-[banking_transaction_fraud.csv](https://github.com/user-attachments/files/24319291/banking_transaction_fraud.csv)# Banking Transaction Fraud Analysis
+# Banking Transaction Fraud Analysis
 
 ## Project Overview
 This project analyzes banking transaction data to identify **fraud patterns**, understand **customer behavior**, and highlight **risk indicators** that can help financial institutions reduce losses.
@@ -28,8 +28,7 @@ The dataset was obtained in a **raw and unclean format**, similar to real-world 
 - Created calculated columns and measures in Power BI
 
 🔗 **Dataset link:**  
-[Download Dataset] 
-
+[Download Dataset] [banking_transaction_fraud.csv](https://github.com/user-attachments/files/24319308/banking_transaction_fraud.csv)
 
 
 
