@@ -17,7 +17,7 @@ Tools used:
 ## Dataset
 The dataset contains **1,100 rows and multiple columns**, representing customer transactions, transaction types, amounts, and fraud indicators.
 
-⚠️ **Note:**  
+**Note:**  
 The dataset was obtained in a **raw and unclean format**, similar to real-world data.
 
 ### Data Cleaning Steps
@@ -27,14 +27,11 @@ The dataset was obtained in a **raw and unclean format**, similar to real-world 
 - Filtered irrelevant records
 - Created calculated columns and measures in Power BI
 
-🔗 **Dataset link:**  
-[Download Dataset] [banking_transaction_fraud.csv](https://github.com/user-attachments/files/24319308/banking_transaction_fraud.csv)
-
-
+🔗 **Dataset: [banking_transaction_fraud.csv](https://github.com/user-attachments/files/24319308/banking_transaction_fraud.csv)
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 Key questions explored:
 - What percentage of transactions are fraudulent?
 - Which transaction types are most prone to fraud?
@@ -45,7 +42,7 @@ EDA helped uncover hidden trends before dashboard creation.
 
 ---
 
-## 📈 Dashboard
+## Dashboard
 The Power BI dashboard provides:
 - Total transactions & fraud count
 - Fraud rate percentage
@@ -53,8 +50,9 @@ The Power BI dashboard provides:
 - Fraud by transaction type
 - Customer risk analysis
 
-📷 *Dashboard Preview:*  
-(Add a screenshot here in the visuals folder)
+*Dashboard Preview:*  
+<img width="846" height="476" alt="Screenshot 2025-12-23 222110" src="https://github.com/user-attachments/assets/a2853373-3917-436c-b733-97a197f6e353" />
+
 
 ---
 
