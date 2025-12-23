@@ -53,10 +53,9 @@ The Power BI dashboard provides:
 *Dashboard Preview:*  
 <img width="846" height="476" alt="Screenshot 2025-12-23 222110" src="https://github.com/user-attachments/assets/a2853373-3917-436c-b733-97a197f6e353" />
 
-
 ---
 
-## 💡 Key Insights
+## Key Insights
 - A small percentage of transactions account for a large portion of fraud losses
 - Certain transaction types have significantly higher fraud rates
 - High-value transactions show increased fraud probability
@@ -64,7 +63,7 @@ The Power BI dashboard provides:
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 - Apply stricter monitoring to high-risk transaction types
 - Introduce real-time alerts for unusually high transaction amounts
 - Segment customers by risk level for targeted fraud prevention
